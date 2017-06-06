@@ -15,6 +15,12 @@ public class MainActivity extends AppCompatActivity {
 
     ScreenBroadcastReceiver screenReceiver;
 
+
+    /***
+     * 
+     * @param savedInstanceState
+     */
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
